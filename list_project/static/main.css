@@ -7,16 +7,31 @@ body{
 {
     background-color: #FF6666;
     opacity: 0.5;
-    margin-top: -20px;
 }
 .heading
 {
-    margin-left: 30%;
+    margin-left: 2em;
+    display: inline;
+    font-size: 5em;
+}
+ul
+{
+    display: inline;
 }
 ul, li
 {
-    display: block;
     list-style-type: none;
     float: right;
     margin-right: 50px;
+}
+.main
+{
+    width: 30em;
+    display: block;
+    margin: auto;
+}
+table
+{
+    border-collapse:collapse;
+    border:1px solid #FF0000;
 }

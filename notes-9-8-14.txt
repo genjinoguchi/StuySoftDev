@@ -1,0 +1,28 @@
+Programming Languages and Environments
+
+Scheme
+	IDE/CLI
+	Functional 
+
+Netlogo
+	IDE
+	Interactive Graphical
+	Really good for modelling.
+	Parallel programming-- coordination, syncing, etc.
+
+Python
+	IDE/CLI
+	Multi-modal
+
+Java
+	CLI/IDE
+	OOP- Pretty strict.
+
+Javascript
+	Functional
+
+Ruby
+
+LaTeX
+
+

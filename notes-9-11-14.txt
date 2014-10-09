@@ -1,0 +1,30 @@
+9-11-14
+
+Use github.com/stuycs-softdev/classcode
+
+pip-python manager
+Install pip, virtualenv, flask
+Learn to use flask
+
+Don't put the actual files on github.
+
+Install p2.79-11-14
+
+__name__ : Indicates the way that the program is run. 
+It's going to be __main__ if run from the commnad line.
+
+
+Flask example:
+
+from flask import Flask
+#The equivalent of import flask.Flask
+
+app = Flask(__name__)
+#The equvalent of Flask app = new Flask(__name__);
+if __name__=="__main__":
+	app.debug=True
+	app.run()
+
+#This starts up the web server
+
+
